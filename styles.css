@@ -1,0 +1,17 @@
+body {
+    background-color:blue
+}
+
+.container {
+    display:flex;
+    background-color:green;   
+}
+
+.usernameHolder{
+    background-color: aquamarine;
+}
+
+.passwordHolder{
+    background-color: blueviolet;
+}
+
